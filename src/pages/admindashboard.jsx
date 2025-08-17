@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import clsx from "clsx";
+import { ResponsiveContainer } from "recharts";
 import Header from "../components/Header";
 
 export default function UserDetailsSection() {
